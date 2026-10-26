@@ -1,5 +1,8 @@
 <Solution>
   <Folder Name="/Task0/">
-    <Project Path="ConsoleApp1/Tyuiu.KuzminEA.Sprint0.Task0.V0.csproj" />
+    <Project Path="ConsoleApp1/Tyuiu.KuzminEA.Sprint0.Task0.V0.csproj" Id="c867acfb-d771-4d1f-832d-901625126447" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.KuzminEA.Sprint0.Task1.V0/Tyuiu.KuzminEA.Sprint0.Task1.V0.csproj" Id="766467c7-ff5e-48ef-8237-36272bc4cd61" />
   </Folder>
 </Solution>
